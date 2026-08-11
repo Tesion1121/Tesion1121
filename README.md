@@ -1,40 +1,38 @@
-<div align="center">
+<!-- Header banner optional -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=570681&height=220&section=header&text=Khairiya%20Fatih&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20AI%20%26%20Cloud%20Developer&descAlignY=51&descAlign=62"> -->
 
-  <!-- Header Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4CC9F0&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Khairiya+👋;AI+%26+Cloud+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center" style="font-size:250px">👋 Hello!</h1>
+<p align="left">I build AI applications, <b>mostly cloud infrastructure & software.</b></p>
 
-  <p>Passionate about building smart applications, cloud infrastructure, and software development.</p>
+### 🛠 &nbsp;Tech Stacks
 
-  <!-- Badges Kontak -->
-  <a href="https://linkedin.com/in/USERNAME_ANDA"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL_ANDA@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+![Python](https://img.shields.io/badge/-Python-280137?style=flat&logo=python)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-280137?style=flat&logo=google-cloud)&nbsp;
+![Cisco](https://img.shields.io/badge/-Cisco-280137?style=flat&logo=cisco)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-280137?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-280137?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-280137?style=flat&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-280137?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-280137?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-</div>
+### ⚙️ &nbsp;GitHub Analytics
 
----
-
-### 🚀 About Me
-
-- 🔭 Saya sedang berfokus pada pengembangan sistem berbasis **Artificial Intelligence** dan **Cloud Computing**.
-- 🛠️ Sering bekerja dengan Python, Google Cloud Platform, dan arsitektur jaringan.
-- ⚡ Fun fact: Suka menjelajahi ekosistem open-source dan belajar teknologi baru.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center" class="d-flex justify-content-center align-items-center">
+  <a href="https://github.com/USERNAME_ANDA">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&langs_count=8&theme=omni"/>
+  </a>
 </p>
 
----
+### 🤝🏻 &nbsp;Connect with Me
 
-### 📊 GitHub Analytics
+<p align="center">
+  <a href="mailto:khairifatih238@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-280137?style=flat&logo=Gmail&logoColor=EA4335"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=radical&hide_border=true" height="160" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
