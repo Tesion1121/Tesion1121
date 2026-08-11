@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center" style="font-size:250px">👋 Hello!</h1>
-<p align="left">I build AI applications, <b>mostly cloud infrastructure & software.</b></p>
+<p align="left">Hi, <b>mostly Website & software.</b></p>
 
 ### 🛠 &nbsp;Tech Stacks
 
